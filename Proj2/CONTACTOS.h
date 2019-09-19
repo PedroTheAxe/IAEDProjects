@@ -6,10 +6,10 @@
 #include <string.h>
 #include "HASHTABLE.h" /* Ficheiro que contem as funcoes que gerem as hashtables */
 
-#define NOME 	1024				/* Numero maximo de caracteres para o nome */
-#define	EMAIL	512					/* Numero maximo de caracteres para o email */
-#define TEL		64					/* Numero maximo de caracteres para o telefone*/
-#define MAX		NOME + EMAIL + TEL 	/* Numero maximo de caracteres para o input total */
+#define NOME 	1024			     
+#define	EMAIL	512		             
+#define TEL	64			         
+#define MAX	NOME + EMAIL + TEL 	 
 
 list* mk_list();
 
