@@ -1,21 +1,21 @@
 /*&*&*&*&*&*&*&*&*&*&*&*&*&*&*&*&*&*&*&*&*&*&*&*&*&*&*&*&*&*&*&*&*&*&*&*&*&*/
-/*				           Projeto 2 de IAED                               */
-/*			       Autor: Pedro Morais -> (Número 93607)                   */ 
-/*		                                                                   */
+/*			     Projeto 2 de IAED                             */
+/*		    Autor: Pedro Morais -> (Número 93607)                  */ 
+/*		                                                           */
 /*  Descricao do Projeto 2:                                                */
 /*                                                                         */
-/*	Desenvolvimento, em linguagem C, de um sistema de gestao de contactos. */
+/*  Desenvolvimento, em linguagem C, de um sistema de gestao de contactos. */
 /*  A interaccao com o programa ocorre atraves de um conjunto de linhas    */
-/* 	compostas por:                                                         */
-/*	                                                                       */
-/*	<comando> <número de argumentos dependente do comando a executar>      */
+/*  compostas por:                                                         */
+/*	                                                                   */
+/*  <comando> <número de argumentos dependente do comando a executar>      */
 /*                                                                         */
 /*  Comandos:                                                              */
 /*                                                                         */
 /*  a -> a <nome> <email> <telefone> // Adiciona um novo contacto.         */
-/*	l -> l // Lista todos os contactos por ordem de introducao.            */
+/*  l -> l // Lista todos os contactos por ordem de introducao.            */
 /*  p -> p <nome> // Procura um contacto.                                  */
-/*	r -> r <nome> // Apaga um contacto.                                    */
+/*  r -> r <nome> // Apaga um contacto.                                    */
 /*  e -> e <nome> <email> // Altera o endereco de email de um contacto.    */
 /*  c -> c <dominio> // Conta o número de ocorrencias de um dominio.       */
 /*  x -> x // Termina o programa.                                          */
