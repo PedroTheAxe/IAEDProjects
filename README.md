@@ -2,7 +2,7 @@
 
 # UniProjects
 
-This repository contains the majority of all the university projects I have done in my BSc at Instituto Superior Técnico.
+This repository contains some of the university projects that I have done in my BSc at Instituto Superior Técnico.
 
 <details>
 <summary>Click to expand course acronym meaning:</summary>
@@ -13,12 +13,6 @@ IAED - `Introduction to Algorithms and Data Structures`
 <br/><br/>
 PO - `Object-oriented programming `
 <br/><br/>
-SO - `Operative Systems`
-<br/><br/>
 BD - `Databases`
-<br/><br/>
-SDIS - `Distributed Systems`
-<br/><br/>
-SIRS - `Cibersecurity in Networks and Systems`
 
 </details>
