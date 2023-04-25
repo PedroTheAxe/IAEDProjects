@@ -9,9 +9,10 @@ Develop a system that manages a library. The system allows for operations such a
 
 Assuming that you are in the root directory, run the following commands:
 
-`javac -cp po-uilib.jar:. `find m19 -name *.java``
-`java -cp po-uilib.jar:. m19.app.App`
+    1. javac -cp po-uilib.jar:. `find m19 -name *.java`
+
+    2. java -cp po-uilib.jar:. m19.app.App
 
 To start the application with an initial state the following command is needed:
 
-`java -Dimport=ficheiro.im -cp po-uilib.jar:. m19.app.App`
+    java -Dimport=ficheiro.im -cp po-uilib.jar:. m19.app.App
