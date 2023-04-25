@@ -1,5 +1,5 @@
 # BDProject
-My Database course project
+My Databases course project
 
 ## Project objective
 
@@ -7,6 +7,6 @@ Create a crowdsourcing platform, called TRANSLATE RIGHT, which has the objective
 
 ### Executing the program
 
-Access this [link](web.ist.utl.pt/ist193607/homepage.php).
+Access this [link](https://web.ist.utl.pt/ist193607/homepage.php)
 
 
