@@ -5,7 +5,7 @@
 $host = "db.ist.utl.pt";
 $user = "ist193607";
 $port = 5432;
-$password = "jtck9665";
+$password = "1234";
 $dbname = $user;
 $connection = pg_connect("host=$host port=$port user=$user password=$password dbname=$dbname")
 or die(pg_last_error());
