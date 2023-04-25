@@ -7,13 +7,13 @@ This repository contains some of the university projects that I have done in my 
 <details>
 <summary>Click to expand course acronym meaning:</summary>
 <br/>
-BD - `Databases`
+BD   -    Databases
 <br/><br/>
-FP - `Foundations of Programming`
+FP   -    Foundations of Programming
 <br/><br/>
-IAED - `Introduction to Algorithms and Data Structures`
+IAED -    Introduction to Algorithms and Data Structures
 <br/><br/>
-PO - `Object-oriented programming `
+PO   -    Object-oriented programming
 
 
 </details>
